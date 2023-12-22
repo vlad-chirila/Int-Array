@@ -1,0 +1,14 @@
+D:\Repos\Katas\Int Array\bin\Debug\net8.0\Int Array.exe
+D:\Repos\Katas\Int Array\bin\Debug\net8.0\Int Array.deps.json
+D:\Repos\Katas\Int Array\bin\Debug\net8.0\Int Array.runtimeconfig.json
+D:\Repos\Katas\Int Array\bin\Debug\net8.0\Int Array.dll
+D:\Repos\Katas\Int Array\bin\Debug\net8.0\Int Array.pdb
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.AssemblyInfoInputs.cache
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.AssemblyInfo.cs
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.csproj.CoreCompileInputs.cache
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.dll
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\refint\Int Array.dll
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.pdb
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\Int Array.genruntimeconfig.cache
+D:\Repos\Katas\Int Array\obj\Debug\net8.0\ref\Int Array.dll
